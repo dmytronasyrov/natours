@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "live-server",
     "sass": "node-sass sass/main.sass css/style.css -w"
   },
   "repository": {
